@@ -1,0 +1,135 @@
+2019-2-26 10:10:21.033
+|======2.3.1===========
+
+2019-2-26 10:10:22.642
+PreinstallDriver: ok
+
+2019-2-26 10:10:22.679
+|======2.3.1===========
+
+2019-2-26 10:10:23.045
+PreinstallDriver: ok
+
+2019-2-26 10:10:23.070
+|======2.3.1===========
+
+2019-2-26 10:10:23.371
+PreinstallDriver: ok
+
+2019-2-26 10:10:23.590
+|======2.3.1===========
+
+2019-2-26 10:10:23.996
+PreinstallDriver: ok
+
+2019-2-26 10:10:24.032
+|======2.3.1===========
+
+2019-2-26 10:10:24.195
+install:find our device has installed
+
+2019-2-26 10:10:24.377
+GetNewDriverVersion: don't install driver
+
+2019-2-26 10:10:24.378
+Current version is the newest,decide not to install drivers
+
+2019-2-26 10:10:24.413
+|======2.3.1===========
+
+2019-2-26 10:10:24.440
+install:find our device has installed
+
+2019-2-26 10:10:24.461
+GetNewDriverVersion: don't install driver
+
+2019-2-26 10:10:24.462
+Current version is the newest,decide not to install drivers
+
+2019-2-26 10:10:24.486
+|======2.3.1===========
+
+2019-2-26 10:10:24.753
+Force to Install Driver: failure
+
+2019-2-26 10:10:24.789
+|======2.3.1===========
+
+2019-2-26 10:10:24.871
+Install Driver: failure
+
+2019-2-26 10:10:24.892
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:24.914
+|======2.3.1===========
+
+2019-2-26 10:10:25.079
+Install Driver: failure
+
+2019-2-26 10:10:25.099
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:25.122
+|======2.3.1===========
+
+2019-2-26 10:10:25.189
+Install Driver: failure
+
+2019-2-26 10:10:25.208
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:25.234
+|======2.3.1===========
+
+2019-2-26 10:10:25.316
+Install Driver: failure
+
+2019-2-26 10:10:25.364
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:25.386
+|======2.3.1===========
+
+2019-2-26 10:10:25.465
+Install Driver: failure
+
+2019-2-26 10:10:25.557
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:25.584
+|======2.3.1===========
+
+2019-2-26 10:10:25.739
+Install Driver: failure
+
+2019-2-26 10:10:25.757
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:25.780
+|======2.3.1===========
+
+2019-2-26 10:10:26.185
+Install Driver: failure
+
+2019-2-26 10:10:26.204
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:26.226
+|======2.3.1===========
+
+2019-2-26 10:10:26.369
+Install Driver: failure
+
+2019-2-26 10:10:26.389
+UpdateDriver: Preinstall Driver: ok
+
+2019-2-26 10:10:26.412
+|======2.3.1===========
+
+2019-2-26 10:10:26.571
+Install Driver: failure
+
+2019-2-26 10:10:26.624
+UpdateDriver: Preinstall Driver: ok
+
